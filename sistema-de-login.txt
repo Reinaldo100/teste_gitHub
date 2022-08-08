@@ -1,2 +1,3 @@
 Digite seu nome: 
 Digite uma senha valida:
+Digite sua idade:
